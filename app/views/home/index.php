@@ -101,22 +101,22 @@
                 <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
                 <li class="list-inline-item"><i class="fab fa-npm"></i></li>
             </ul>
-            <div class="subheading mb-3" style="color: black;">Workflow</div>
+            <div class="subheading mb-3" style="color: blue;">Workflow</div>
             <ul class="fa-ul mb-0">
-                <li style=" color: white;">
-                    <span class="fa-li" style=" color: black;"><i class=" fas fa-check"></i></span>
+                <li style=" color: black;">
+                    <span class="fa-li" style=" color: blue;"><i class=" fas fa-check"></i></span>
                     Mobile-First, Responsive Design
                 </li>
-                <li style=" color: white;">
-                    <span class="fa-li" style=" color: black;"><i class="fas fa-check"></i></span>
+                <li style=" color: black;">
+                    <span class="fa-li" style=" color: blue;"><i class="fas fa-check"></i></span>
                     Cross Browser Testing & Debugging
                 </li>
-                <li style=" color: white;">
-                    <span class="fa-li" style=" color: black;"><i class="fas fa-check"></i></span>
+                <li style=" color: black;">
+                    <span class="fa-li" style=" color: blue;"><i class="fas fa-check"></i></span>
                     Cross Functional Teams
                 </li>
-                <li style=" color: white;">
-                    <span class="fa-li" style=" color: black;"><i class="fas fa-check"></i></span>
+                <li style=" color: black;">
+                    <span class="fa-li" style=" color: blue;"><i class="fas fa-check"></i></span>
                     Agile Development & Scrum
                 </li>
             </ul>
