@@ -8,5 +8,6 @@
  <script src="js/scripts.js"></script>
  </body>
  <p class="nome">@Jean Carlos Santi</p>
+ <p class="nome1">2019 Copyright</p>
 
  </html>
