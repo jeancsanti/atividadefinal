@@ -1,4 +1,4 @@
-# Atividade avaliação final - Projeto de Sistema
+# Atividade final - Projeto de Sistema
 
 # Jean Carlos Santi
 
